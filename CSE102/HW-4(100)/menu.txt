@@ -1,0 +1,14 @@
+Product     Price(TL)
+Hamsi       61.00
+Levrek      84.99
+Somon       99.99
+Palamut     34.99
+Istavrit    29.99
+Mezgit      29.99
+Cipura      56.99
+Istavrit    34.99
+Su          5.00
+Salgam      15.00
+Kola        7.99
+Baklava     15.99
+Helva       8.00

@@ -1,0 +1,11 @@
+Ayşe Kaya,20210001,0
+Mehmet Demir,20210002,0
+Zeynep Öztürk,20210003,0
+Ahmet Yılmaz,20210004,0
+Elif Can,20210005,1
+9780156196253,Homage to Catalonia,George Orwell,1938
+İbrahim Arslan,20210006,0
+Cemile Aksoy,20210007,0
+Emir Şahin,20210008,0
+Leyla Çelik,20210009,0
+Ali Akbulut,20210010,0

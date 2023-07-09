@@ -1,0 +1,5 @@
+sID,pID,branch,current_stock
+1,1,Trabzon,99
+2,5,Istanbul,56
+3,3,Trabzon,89
+4,2,Kocaeli,1

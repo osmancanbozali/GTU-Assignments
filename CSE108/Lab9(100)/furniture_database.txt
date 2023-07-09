@@ -1,0 +1,7 @@
+Name,Color,Price,Serial Number,Quantity
+Office Chair,Brown,15.25,179265,800
+Bookcase,Green,185.47,458913,255
+Armchair,Black,85.00,358963,90
+Computer Desk,Black,300.00,643289,700
+Sofa,Cream,450.00,564978,175
+Bookcase,Orange,100.00,123456,75

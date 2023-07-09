@@ -1,0 +1,9 @@
+pID,type,name,brand,price,osman
+1,D,Ayran,Sutas,20.5,None
+2,D,Cola,Pepsi,25.99,None
+3,D,Water,Sirma,9.99,None
+4,F,Simit,Firin,13.5,None
+5,F,Acma,Firin,15.00,None
+6,D,Fanta,Fanta,22.50,None
+7,D,Maden,Sirma,15.99,None
+8,D,ayran,sek,21.50,None

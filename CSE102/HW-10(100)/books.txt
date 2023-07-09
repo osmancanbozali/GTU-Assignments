@@ -1,0 +1,19 @@
+ISBN,Title,Author,Publication Year,Status
+9781501142970,The Stand,Stephen King,1978,available
+9781501143700,Misery,Stephen King,1987,available
+9780141183060,Burmese Days,George Orwell,1934,available
+9780007525300,The Murder of Roger Ackroyd,Agatha Christie,1926,available
+9780747542155,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,1999,available
+9780007136834,And Then There Were None,Agatha Christie,1939,available
+9780151010264,Animal Farm,George Orwell,1945,available
+9780007119318,Murder on the Orient Express,Agatha Christie,1934,available
+9780156196253,Homage to Catalonia,George Orwell,1938,borrowed
+9780747532743,Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,available
+9780747538493,Harry Potter and the Chamber of Secrets,J.K. Rowling,1998,available
+9780439358064,Harry Potter and the Order of the Phoenix,J.K. Rowling,2003,available
+9780312979478,Death on the Nile,Agatha Christie,1937,available
+9780151660387,Down and Out in Paris and London,George Orwell,1933,available
+9780008196300,The ABC Murders,Agatha Christie,1936,available
+9780451155757,Carrie,Stephen King,1974,available
+9780451524935,1984,George Orwell,1949,available
+9780451169525,The Shining,Stephen King,1977,available
